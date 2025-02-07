@@ -18,11 +18,6 @@ pnpm-debug.log*
 lerna-debug.log*
 *.gz
 
-# Environment variables
-.env
-.env.local
-.env.*.local
-
 # Database files
 *.sqlite
 *.sqlite3
